@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367290157169",
+    "project_id": "diploma-26a8e",
+    "storage_bucket": "diploma-26a8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367290157169:android:839f87da9cc0987c22f3d0",
+        "android_client_info": {
+          "package_name": "com.marikdiploma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPKtYyi27xsRYhnHYqYk7aRCD5fX8Wbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
